@@ -1,8 +1,10 @@
 package rocks.zipcode;
 
-import org.junit.Test;
 
-import static org.junit.Assert.*;
+import org.testng.annotations.Test;
+
+
+import static org.testng.Assert.assertTrue;
 
 /**
  * Unit test for simple App.
